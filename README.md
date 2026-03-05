@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
 # Multi-Agent Task Orchestration System
 
 A lightweight platform where multiple AI agents collaborate to research a topic and produce a written report. Built with FastAPI (Python) + Next.js (React).
