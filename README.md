@@ -80,9 +80,3 @@ frontend/src/
 ├── components/Pipeline.tsx    # Agent pipeline visualization + SSE
 └── components/ResultsPanel.tsx # Report display with tabs
 ```
-=======
-# multi-agent-orchestrator
->>>>>>> 68722c3041c6d4888bbffbfc41916a20d4a52d08
-=======
-# multi-agent-orchestrator
->>>>>>> ca47ab1be117a6ea207d559bf2e91a9a078bc48f
